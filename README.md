@@ -6,7 +6,7 @@ Este repositorio es de pratica
 
 # Tecnologias
 
-Java 
+Java
 C++
 Python
-
+PHP
