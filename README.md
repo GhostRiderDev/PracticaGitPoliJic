@@ -13,7 +13,10 @@ PHP
 JavaScript
 DART
 C#
-yurani_marcela
-nohemy_morelo
-olvadis
-steven_arzuza
+
+# Autores
+
+Yurany Marcela
+Nohemy Morelo
+Olvadis
+Steven Arzuza
