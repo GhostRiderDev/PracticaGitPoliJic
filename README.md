@@ -14,7 +14,9 @@ JavaScript
 DART
 C#
 
-Yurani Marcela
+# Autores
+
+Yurany Marcela
 Nohemy Morelo
 Olvadis
 Steven Arzuza
