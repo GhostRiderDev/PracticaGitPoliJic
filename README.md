@@ -14,10 +14,11 @@ JavaScript
 DART
 C#
 
-Yuraniu\_\_marcela
-nohemy_morelo
-olvadis
-steven_arzuza
+Yurani Marcela
+Nohemy Morelo
+Olvadis
+Steven Arzuza
+
 haciendo practicas en el git
 
 # Estado practica
