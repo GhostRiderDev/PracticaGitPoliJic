@@ -14,9 +14,8 @@ JavaScript
 DART
 C#
 
-# Autores
-
-Yurany Marcela
-Nohemy Morelo
-Olvadis
-Steven Arzuza
+yurani_marcela
+nohemy_morelo
+olvadis
+steven_arzuza
+haciendo practicas en el git
