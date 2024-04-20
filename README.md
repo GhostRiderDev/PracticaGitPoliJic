@@ -16,7 +16,7 @@ C#
 
 Yurani Marcela
 Nohemy Morelo
-Olvadis
+kraken Hernandez
 Steven Arzuza
 
 haciendo practicas en el git
