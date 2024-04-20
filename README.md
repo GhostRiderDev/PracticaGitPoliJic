@@ -13,6 +13,7 @@ PHP
 JavaScript
 DART
 C#
+Erlang
 
 # Autores
 
@@ -22,9 +23,8 @@ Olvadis Hernandez
 Steven Arzuza
 mmmmmmm
 haciendo practicas en el git
-Vamonos 
+Vamonos
 borrar
-
 
 # Estado practica
 
