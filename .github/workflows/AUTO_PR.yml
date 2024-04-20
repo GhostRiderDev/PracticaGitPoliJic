@@ -14,8 +14,8 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           commit-message: update branch
-          title: "Pull Request Automatica"
-          body: " "
+          title: ${{ 'Pull Request Automatica' }}
+          body: ${{ 'Pull Request Automatica' }}
           branch: ${{ github.ref }}
           token: ${{ secrets.AUTO_PR }}
           base: main
