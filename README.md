@@ -18,10 +18,13 @@ C#
 
 Yurany Marcela
 Nohemy Morelo
-kraken Hernandez
+Olvadis Hernandez
 Steven Arzuza
-
+mmmmmmm
 haciendo practicas en el git
+Vamonos 
+borrar
+
 
 # Estado practica
 
