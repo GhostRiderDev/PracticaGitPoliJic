@@ -1,4 +1,4 @@
-name: auto pull request 
+name: Update Branch
 on:
   push:
     branches-ignore:
@@ -10,19 +10,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Get last commit information
-        id: last_commit
-        run: |
-          last_commit_title=$(git log -1 --pretty=format:%s)
-          last_commit_body=$(git log -1 --pretty=format:%b)
-          echo "::set-output name=title::$last_commit_tittle"
-          echo "::set-output name=body::$last_commit_body"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
-        with: 
+        with:
           commit-message: update branch
-          title: ${{ steps.last_commit.outputs.title }}
-          body: ${{ steps.last_commit.outputs.body }}
+          title: ${{ 'Pull Request Automatica' }}
+          body: ${{ 'Pull Request Automatica' }}
           branch: ${{ github.ref }}
           token: ${{ secrets.AUTO_PR }}
           base: main
